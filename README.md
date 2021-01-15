@@ -1,4 +1,4 @@
-Created a python script to visualize the weather of 500+ cities across the world of varying distance from the equator. This uses simple python libraries(https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
+A python script was created to visualize the weather of 500+ cities across the world of varying distance from the equator. This uses simple python libraries https://pypi.python.org/pypi/citipy) and https://openweathermap.org/api.
 
 Scatterplots of the following were created:
 
